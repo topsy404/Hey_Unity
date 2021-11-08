@@ -1,7 +1,10 @@
 
 Create clock in Unity
-Unity version: 2019.4
+
 Author: topsy
 
+Date: Nov 8, 2021
+
+Unity version: 2019.4
 
 [ref](https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/)
